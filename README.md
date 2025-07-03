@@ -5,3 +5,8 @@ Intro Cybersecurity
 People
 Process
 Technology
+
+## CIA Triad
+1. Confidentiality
+2. Integrity
+3. Availability
